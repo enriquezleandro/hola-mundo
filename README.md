@@ -13,4 +13,4 @@ Y de merienda un chocolate caliente con un alfajor.
 Modificacion de README 18/06
 
 Modificacion de README 27/08
-[wiki](https://github.com/enriquezleandro/hola-mundo/wiki/WikiCode)
+[wiki](https://github.com/enriquezleandro/hola-mundo.wiki.git)
